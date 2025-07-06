@@ -1,5 +1,5 @@
-# Hi:
-I am a Cyber Security Student, a Web Developer and an AI Developer. I am currently pursuing a <br>Bachelor's degree in Cyber Security (grad class of 2028) from FAST Karachi.<br>
+# Heyyy!
+I am Huzaifa aka cyberzeff...<br>a Cyber Security Student, a Web Developer and an AI Developer. I am currently pursuing a <br>Bachelor's degree in Cyber Security (grad class of 2028) from FAST Karachi.<br>
 
 
 ## Stalk me on:
