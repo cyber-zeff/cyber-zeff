@@ -1,7 +1,7 @@
 <p align="left">
   <img
     src="./github-header.jpg"
-    width="80"
+    width="25"
     alt="Avatar"
     hspace="12"
     align="middle"
