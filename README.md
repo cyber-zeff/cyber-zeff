@@ -1,17 +1,14 @@
-<!-- <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=fcb924&colorEnd=080808&height=120&section=header&text=sudo+enter+my+world+%3B%29&fontSize=34&fontColor=ffffff&animation=none&gradientDirection=diagonal&parallax=true&wavePosition=73&waveAmplitude=48&waveSpeed=44&flipWave=false&textAlignX=50&textAlignY=50&rtl=24&rtr=24&rbr=0&rbl=0"/>
-</div> -->
 <p align="left">
-  <img src="/github-header.jpg" alt="GitHub Header" width="80" />
-  
-  [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fhuzaifacreates&style=flat)](https://rankistan.dev/#huzaifacreates)
+  <img src="./github-header.jpg" alt="GitHub Header" width="80" style="vertical-align: middle;" />
 
+  <a href="https://rankistan.dev/#huzaifacreates">
+    <img
+      src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fhuzaifacreates&style=flat"
+      alt="Rankistan Rank"
+      style="vertical-align: middle;"
+    />
+  </a>
 </p>
-
-<p align="center">
-
-</p>
-
 
 <div align="center">
 
