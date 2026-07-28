@@ -1,7 +1,17 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=fcb924&colorEnd=080808&height=120&section=header&text=sudo+enter+my+world+%3B%29&fontSize=34&fontColor=ffffff&animation=none&gradientDirection=diagonal&parallax=true&wavePosition=73&waveAmplitude=48&waveSpeed=44&flipWave=false&textAlignX=50&textAlignY=50&rtl=24&rtr=24&rbr=0&rbl=0"/>
-</div>
+</div> -->
+<h1 align="center">huzaifacreates</h1>
 
+<p align="center">
+
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fhuzaifacreates&style=flat)](https://rankistan.dev/#huzaifacreates)
+
+</p>
+
+<p align="center">
+  <img src="./assets/github-header.png" width="850" />
+</p>
 <div align="center">
 
 ### 👀 since you're already here...
