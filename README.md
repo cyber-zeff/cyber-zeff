@@ -1,11 +1,17 @@
 <p align="left">
-  <img src="./github-header.jpg" alt="GitHub Header" width="80" style="vertical-align: middle;" />
+  <img
+    src="./github-header.jpg"
+    width="80"
+    alt="Avatar"
+    hspace="12"
+    align="middle"
+  />
 
   <a href="https://rankistan.dev/#huzaifacreates">
     <img
       src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fhuzaifacreates&style=flat"
       alt="Rankistan Rank"
-      style="vertical-align: middle;"
+      align="middle"
     />
   </a>
 </p>
