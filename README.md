@@ -79,12 +79,6 @@ my long-term goal?
 
 ---
 
-<!-- <div align="center">
-
-<img src="https://github-profile-maker.vercel.app/api/quotes?theme=tokyonight&quote=yess....+i+can+actually+do+this+all+day&author=myself+%28who+did+u+thought%3F%29&textAlign=center&authorAlign=center"/>
-
-</div> -->
-
 <div align="center">
 
 ### thanks for stalking responsibly ❤️
